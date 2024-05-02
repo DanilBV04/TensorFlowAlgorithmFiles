@@ -4,8 +4,8 @@ import PIL
 
 # Downloading files used for the analysis
 
-training_files = r'C:\Users\user\Desktop\WebApp - GitHub\WebApp\my-project\src\TensorFlow\FinalYearProject\Final Year Project Analysis Files\TRIAL_FOR_TESTING'
-testing_files = r'C:\Users\user\Desktop\WebApp - GitHub\WebApp\my-project\src\TensorFlow\FinalYearProject\Final Year Project Analysis Files\TRIAL_FOR_TESTING'
+training_files = 'Final Year Project Analysis Files/TRIAL_FOR_TESTING'
+testing_files = 'Final Year Project Analysis Files/TRIAL_FOR_TESTING'
 
 # Print out the folder paths to ensure they are visible
 
